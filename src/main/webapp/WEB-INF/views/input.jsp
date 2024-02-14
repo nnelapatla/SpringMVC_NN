@@ -10,7 +10,7 @@
 
 <P>Enter height(inches) and weight(lbs)</p>
 
-<form action="bmi" method="post">
+<form action="result" method="post">
     <label>Height(in):</label>
     <input type="text" name="height"><br>
     <label>Weight(lb):</label>
